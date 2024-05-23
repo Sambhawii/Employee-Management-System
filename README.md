@@ -69,13 +69,9 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 - Test your changes thoroughly.
 - Create a pull request with a detailed description of the changes and any relevant information.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries or support, please contact us at [email@example.com](mailto:email@example.com).
+For any inquiries or support, please contact us at [sambhawii.333@gmail.com.com](mailto:sambhawii.333@gmail.com).
 
 ---
 
