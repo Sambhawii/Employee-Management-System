@@ -1,6 +1,3 @@
-# Employee Management System
-
-![Employee Management System](https://your-website.com/path/to/employee-management-system-screenshot.png)
 
 ## Overview
 
